@@ -2,12 +2,11 @@
 export libp4est, libsc
 
 using Zlib_jll
-using OpenBLAS32_jll
 JLLWrappers.@generate_wrapper_header("P4est")
-JLLWrappers.@declare_library_product(libp4est, "libp4est-2.2.so")
-JLLWrappers.@declare_library_product(libsc, "libsc-2.2.so")
+JLLWrappers.@declare_library_product(libp4est, "libp4est.so.0")
+JLLWrappers.@declare_library_product(libsc, "libsc.so.0")
 function __init__()
-    JLLWrappers.@generate_init_header(Zlib_jll, OpenBLAS32_jll)
+    JLLWrappers.@generate_init_header(Zlib_jll)
     JLLWrappers.@init_library_product(
         libp4est,
         "lib/libp4est.so",
