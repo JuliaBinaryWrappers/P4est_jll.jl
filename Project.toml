@@ -1,6 +1,6 @@
 name = "P4est_jll"
 uuid = "6b5a15aa-cf52-5330-8376-5e5d90283449"
-version = "2.3.1+1"
+version = "2.3.1+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
