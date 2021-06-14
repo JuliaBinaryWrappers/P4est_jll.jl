@@ -1,143 +1,143 @@
 [[P4est]]
 arch = "aarch64"
-git-tree-sha1 = "8e75ace9b86007538c2154d243c7eadb97e0747a"
+git-tree-sha1 = "7ae7c0f8182c21d1508ce9445716c34969a853af"
 os = "macos"
 
     [[P4est.download]]
-    sha256 = "231d642d472668054793b658bcfc351ee807a6dbbc33e0f60e97d1738d7e9587"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "4f4bbcc2ecc38cccc8fdaee36669f422abcc0ddf8720e0dab52e6fe05f67ea54"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.aarch64-apple-darwin.tar.gz"
 [[P4est]]
 arch = "aarch64"
-git-tree-sha1 = "fc71a866a8ec54718f6805e1091eb4bb0b40fa7f"
+git-tree-sha1 = "1175d438cf3cace69c6851a259965ea96ff9b266"
 libc = "glibc"
 os = "linux"
 
     [[P4est.download]]
-    sha256 = "633869cb25e1187b6d4061c975163532739a288cc40b6b8dcac2d8e7498031f2"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "8beeeab29dfbd03abff1e06c7078b4f24eced1d66ac6c0f5cca65da7f068d8fb"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.aarch64-linux-gnu.tar.gz"
 [[P4est]]
 arch = "aarch64"
-git-tree-sha1 = "38e0e523c51e26834bc428f62179d69ed0006c86"
+git-tree-sha1 = "b2d2a3e941fb2bb5f2b316ce53d4b2a25aef3a16"
 libc = "musl"
 os = "linux"
 
     [[P4est.download]]
-    sha256 = "228c3d661aec73cf4478f6774e229f7a988a095922cf94f034a0be6a817d7e6f"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.aarch64-linux-musl.tar.gz"
+    sha256 = "285aa2c95a36bdcdcf535dcd08df16e163ff1ae49e6b9485337a7c1f5e843d07"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.aarch64-linux-musl.tar.gz"
 [[P4est]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "0dab47fb5d7764446b12bd0b6d82745f58b10fdc"
+git-tree-sha1 = "d5c6826b3ea0c228f445dcf4884275eaccced4a8"
 libc = "glibc"
 os = "linux"
 
     [[P4est.download]]
-    sha256 = "668c7f0f2996aa2c59cbbd91a4a42231664936984cbbd2992584388a1c8d3706"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "ed08e9b608707d67795b1f2e0116f2111e73cf97d6f1e94beaa647099aec287b"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.armv6l-linux-gnueabihf.tar.gz"
 [[P4est]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "c6b745dfb41c6779cbf6a2a3058bdcaf0583146e"
+git-tree-sha1 = "b7f88667ead1a07ccfd2f029a6525b8f7c06283d"
 libc = "musl"
 os = "linux"
 
     [[P4est.download]]
-    sha256 = "ed60f0e91ad1f5de2269797c1ad6c92abbf628866f285ee033f8e725cd466d78"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "c52fd1761b1890779bc84851d635dab87963bf8f30b760ff08c1f94de2635624"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.armv6l-linux-musleabihf.tar.gz"
 [[P4est]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e7f5960b40fce7b58614531be5c98b9c3a507b04"
+git-tree-sha1 = "4e99bee177b3993b3a10df96627d4e24d7ad6afd"
 libc = "glibc"
 os = "linux"
 
     [[P4est.download]]
-    sha256 = "f475302c36c251a282fc3c88e4961d5b2ddde8cfea396167cc0e765cf460e5b5"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "51518d3a58a8efed6aa7b29f1a02e8b3bb85686095e5284c047e1409deaa7b92"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.armv7l-linux-gnueabihf.tar.gz"
 [[P4est]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "af27730674a8ecb6a8f03560b66e1406e0ef2131"
+git-tree-sha1 = "6a45aaf6615ba1e9276e48aaccf5264d58716f3c"
 libc = "musl"
 os = "linux"
 
     [[P4est.download]]
-    sha256 = "eeb74913ca84064026e71be571d9a25cc718791e74464f6351369e025f08905f"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "7719efd90f3c84c22606434dd6372255694b94586de5a021086c5a9faf541bdd"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.armv7l-linux-musleabihf.tar.gz"
 [[P4est]]
 arch = "i686"
-git-tree-sha1 = "7ba708f9827e4f4a067089c8bcab7a793a6b1750"
+git-tree-sha1 = "f9b0ae0097f242265e0e9f203f1d6f3f21874751"
 libc = "glibc"
 os = "linux"
 
     [[P4est.download]]
-    sha256 = "d71e74c65e22e50bd0be85ad9785bce545f4088fb355d62ca20a045b0ee29461"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.i686-linux-gnu.tar.gz"
+    sha256 = "d26f6ea25af80f6f9877463e56de58efb6aebaa624c42293c28a5df2ab068b1d"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.i686-linux-gnu.tar.gz"
 [[P4est]]
 arch = "i686"
-git-tree-sha1 = "87db04dd7acf22b1129702373ca49edaf123952e"
+git-tree-sha1 = "7324fcfa08613250f5e0781f61dddf1cde63bd86"
 libc = "musl"
 os = "linux"
 
     [[P4est.download]]
-    sha256 = "db2810db219f6d878eb0e5af930184c42de601854705774c484d96ff9ce10302"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.i686-linux-musl.tar.gz"
+    sha256 = "2212bc6b98b35e2a55eb62cad8a45f44c50f9691ae5b64c04fd7611f56f69e9d"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.i686-linux-musl.tar.gz"
 [[P4est]]
 arch = "i686"
-git-tree-sha1 = "8eeadb6375117af18349a05366da742b9166b167"
+git-tree-sha1 = "9e216a79076567d28794ce0c749e23eb827aace1"
 os = "windows"
 
     [[P4est.download]]
-    sha256 = "f89ca73179615e9b84c56c999b79b36b6d898f4b4fa0666565db0b91d19c0a02"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.i686-w64-mingw32.tar.gz"
+    sha256 = "de9b04a75a160a648c0a4e53ce0c343dbfcab38e25a6f5cf637b9912515b6297"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.i686-w64-mingw32.tar.gz"
 [[P4est]]
 arch = "powerpc64le"
-git-tree-sha1 = "a7e899a0b1a57ac5a4d462bbaa2b7d3ef320b6f4"
+git-tree-sha1 = "26c4a973cebc8c8fb4fe82dded7b431b989d0bab"
 libc = "glibc"
 os = "linux"
 
     [[P4est.download]]
-    sha256 = "3415ccc8884f13100053c3cf875a217f827c49efa00081494e901d28f426b740"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "ff588a3d955d37af6b7df4485840ef8a3379f5bfcff3b3a130c187e32fa5b7e4"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.powerpc64le-linux-gnu.tar.gz"
 [[P4est]]
 arch = "x86_64"
-git-tree-sha1 = "f5336f974addcdc75ed498b153f33cdc3fcfd2b4"
+git-tree-sha1 = "30ee4cbbbf5611ec1c370c8e641f66ab4c9bac30"
 os = "macos"
 
     [[P4est.download]]
-    sha256 = "055e56c9b54d86cfe152257371b36b21e52077d7e6aa2b68dde59fa11813856e"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "0af5968668746f595237060b419f5ba11c7c0c3aa6d447dd06c2223904e155e5"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.x86_64-apple-darwin.tar.gz"
 [[P4est]]
 arch = "x86_64"
-git-tree-sha1 = "a40f15e12fad7b987329d6248611cd87ab292df5"
+git-tree-sha1 = "93e47e83c32f82f4f1f2c6b99a38aaee8db33090"
 libc = "glibc"
 os = "linux"
 
     [[P4est.download]]
-    sha256 = "2698fd9d191b4c81b5f3fa37aadbfca646f01ff01053a871caa2168b37525553"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "ebc39ebfb1cd8a4a37ac7c7fb5813977a5188461e00879a67278e9b22ef304c4"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.x86_64-linux-gnu.tar.gz"
 [[P4est]]
 arch = "x86_64"
-git-tree-sha1 = "a03c964360b5a58e1c42af81a18d27e0a8ff4f51"
+git-tree-sha1 = "f35c65cefed08f7bcdac6f887fbf4285b4d79ceb"
 libc = "musl"
 os = "linux"
 
     [[P4est.download]]
-    sha256 = "5e6a64c2efb4369e8fab3785d7670fec535292426c8ed4b270b88506025be50c"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.x86_64-linux-musl.tar.gz"
+    sha256 = "874d6171621c22087deaccf01cbf0085069a74e0b8f7eebcab5a53989a6aa18b"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.x86_64-linux-musl.tar.gz"
 [[P4est]]
 arch = "x86_64"
-git-tree-sha1 = "99e55f82be6e848607cf53f76b2671e5b023c4c5"
+git-tree-sha1 = "2fc24079d9acd4a3fcdb2c28c3568166885cba9e"
 os = "freebsd"
 
     [[P4est.download]]
-    sha256 = "6a5336dfa3f4ddae62fbb944bb9f0ed8b533f10e8f57e913fe0a6e3f79f8dc4a"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "23c87bf3f907a961456e98910ca2528c705bf6297a927eb5cae7f8bdc146c908"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.x86_64-unknown-freebsd.tar.gz"
 [[P4est]]
 arch = "x86_64"
-git-tree-sha1 = "b2e2ffd0af6cb27320c77e014856f00c81ae900f"
+git-tree-sha1 = "53011283ad3de642f7b0e00bcb220373e94835ae"
 os = "windows"
 
     [[P4est.download]]
-    sha256 = "d620480af743ea42465fc39781e8ace220dd0831cbeb0604777fb216676f7922"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.1+2/P4est.v2.3.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "52e3273530fe9a5cfc939a6ac8e025c0c03a0b154c1cf01febb3f69d3adb8300"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.3.2+0/P4est.v2.3.2.x86_64-w64-mingw32.tar.gz"
