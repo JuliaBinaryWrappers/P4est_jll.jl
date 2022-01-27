@@ -1,13 +1,15 @@
 name = "P4est_jll"
 uuid = "6b5a15aa-cf52-5330-8376-5e5d90283449"
-version = "2.3.2+0"
+version = "2.8.0+0"
 
 [deps]
-JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+MPICH_jll = "7cb0a576-ebde-5e09-9194-50597f1243b4"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+MicrosoftMPI_jll = "9237b28f-5490-5468-be7b-bb81f5f5e6cf"
 
 [compat]
 JLLWrappers = "1.2.0"

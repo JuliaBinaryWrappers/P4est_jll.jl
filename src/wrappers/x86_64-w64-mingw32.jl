@@ -2,11 +2,12 @@
 export libp4est, libsc
 
 using Zlib_jll
+using MicrosoftMPI_jll
 JLLWrappers.@generate_wrapper_header("P4est")
 JLLWrappers.@declare_library_product(libp4est, "libp4est-0.dll")
 JLLWrappers.@declare_library_product(libsc, "libsc-0.dll")
 function __init__()
-    JLLWrappers.@generate_init_header(Zlib_jll)
+    JLLWrappers.@generate_init_header(Zlib_jll, MicrosoftMPI_jll)
     JLLWrappers.@init_library_product(
         libp4est,
         "bin\\libp4est-0.dll",
