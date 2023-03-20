@@ -2,14 +2,12 @@
 export libp4est, libsc
 
 using Zlib_jll
-using MPIPreferences
 using MPItrampoline_jll
-using MPIPreferences
 JLLWrappers.@generate_wrapper_header("P4est")
 JLLWrappers.@declare_library_product(libp4est, "@rpath/libp4est.0.dylib")
 JLLWrappers.@declare_library_product(libsc, "@rpath/libsc.0.dylib")
 function __init__()
-    JLLWrappers.@generate_init_header(Zlib_jll, MPIPreferences, MPItrampoline_jll, MPIPreferences)
+    JLLWrappers.@generate_init_header(Zlib_jll, MPItrampoline_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libp4est,
         "lib/libp4est.0.dylib",

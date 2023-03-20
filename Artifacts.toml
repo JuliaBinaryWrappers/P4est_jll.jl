@@ -7,7 +7,7 @@ os = "macos"
 
     [[P4est.download]]
     sha256 = "7a02a9a87c51b1592e3edd61ca484247c9ffbca987216f6f0e6a599b22eef05f"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.aarch64-apple-darwin-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.aarch64-apple-darwin-mpi+mpich.tar.gz"
 [[P4est]]
 arch = "aarch64"
 git-tree-sha1 = "d27fb7ec450bd4a28b5081a58fbadab091795ab2"
@@ -17,7 +17,7 @@ os = "macos"
 
     [[P4est.download]]
     sha256 = "b8690714d2d0ac42b5451809af057d38ea44424c4f37cd7502886402a5bbb38c"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[P4est]]
 arch = "aarch64"
 git-tree-sha1 = "1cb7909514de9f7c9b27219d9d0d6e92e6842e4a"
@@ -28,7 +28,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "b871654c6ec36e29addfd3f249b118123a9e8ecce797eae93d867eca53c6056c"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.aarch64-linux-gnu-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.aarch64-linux-gnu-mpi+mpich.tar.gz"
 [[P4est]]
 arch = "aarch64"
 git-tree-sha1 = "7f7b78bdb113fe8f2279cf3d1ed262e9e38846d7"
@@ -39,7 +39,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "9e8d1b1855350da51ed8fe1797097716d47bdc91136508740ba6af3a5b967896"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[P4est]]
 arch = "aarch64"
 git-tree-sha1 = "b54d74aedf443a487f3792dac5966f3b3febfddb"
@@ -50,7 +50,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "ee08a2cde2e806c363d3a1a7e2a51818d5c69e8d8a8f2f05d23ad506d40d4c64"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.aarch64-linux-musl-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.aarch64-linux-musl-mpi+mpich.tar.gz"
 [[P4est]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -62,7 +62,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "3e4ddd57e1da661a30032cde08fa180fc7a0d954c7960a76cbdec98f8a868d0b"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
 [[P4est]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -74,7 +74,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "926971048f83ed4f5f968d2bb9306d54126712ca3b0ed70a5c2f5b64a47aeb85"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
 [[P4est]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -86,7 +86,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "102c1fb247fd179a7bcce7215a8d56fa4ca5f2684ca8bfbd6d2203832f3c16d0"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
 [[P4est]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -98,7 +98,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "61acd27d390ecc06bb7c623ced5f7c7423e62844deaeeffe905f61f4c32986aa"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
 [[P4est]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -110,7 +110,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "03c5bca326a3fa55d4a1f7f9915260c4235321a67023ba99bba37f51b20efb69"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
 [[P4est]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -122,7 +122,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "6ae6e0c7a10a82e8db37b58c9410000d981e3f4bc40339e5cd12e40dbea4fa5f"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
 [[P4est]]
 arch = "i686"
 git-tree-sha1 = "28b6329e667f1f6695520835a3d4a84ca89652b2"
@@ -133,7 +133,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "3c38f06055afcb0afe8237cebef44f0699376b13551747426003f5abb73aa6e3"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.i686-linux-gnu-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.i686-linux-gnu-mpi+mpich.tar.gz"
 [[P4est]]
 arch = "i686"
 git-tree-sha1 = "5eb4df67a2be7cfcc92c4628bcddd479ed5447e7"
@@ -144,7 +144,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "1cce58f602fa083472d506fd699631e52aa57a6230ba7239cddfb3168e538d8c"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[P4est]]
 arch = "i686"
 git-tree-sha1 = "16b3cff005422521bbb9e8ac47f48936eb0a8414"
@@ -155,7 +155,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "448f9df7c6fd496fae1b33c41d23322394772b661ae33f77ce160ddec7d0b787"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.i686-linux-musl-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.i686-linux-musl-mpi+mpich.tar.gz"
 [[P4est]]
 arch = "powerpc64le"
 git-tree-sha1 = "7a85384cabe3f905de327b863045c19e4882204c"
@@ -166,7 +166,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "b9e200fdf3ec7fca3e2e1c9e35ce830f51719cf6f13697d3f3f3627693cb17c7"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
 [[P4est]]
 arch = "powerpc64le"
 git-tree-sha1 = "01645f63e9f814f6504414f78dfd6518291f61b8"
@@ -177,7 +177,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "b54746885e58ee6d5b2184a5cc2b823662c824110dfb6827ddcb6796172684be"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[P4est]]
 arch = "x86_64"
 git-tree-sha1 = "0fd7c70fa76506379bfdac82a02baf2d2dc01b5d"
@@ -187,7 +187,7 @@ os = "macos"
 
     [[P4est.download]]
     sha256 = "37d1e5d96d82cdf8b684beb72d0604c99dbbd2d2c0c0999fc05e800cc24c886a"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.x86_64-apple-darwin-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[P4est]]
 arch = "x86_64"
 git-tree-sha1 = "be12f3b4ba3bcb61b8d7013c5a8e1a25f0d78e51"
@@ -197,7 +197,7 @@ os = "macos"
 
     [[P4est.download]]
     sha256 = "8fc0c3479e2f57b9e64d7696f55f9e85cbc7d6d83215b30f8ecdf8e2e84c003f"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[P4est]]
 arch = "x86_64"
 git-tree-sha1 = "3a2ff5d867b2d3d729a84fb3f736761ae336fcbf"
@@ -208,7 +208,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "a37d3bf56ecd55dc99ae717635ce025dba6da15bf7ac05d022b6be86c13a81f5"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.x86_64-linux-gnu-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.x86_64-linux-gnu-mpi+mpich.tar.gz"
 [[P4est]]
 arch = "x86_64"
 git-tree-sha1 = "da3c89e70ca41aa7c88604799935462a69220bd6"
@@ -219,7 +219,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "9d8229d40bf212e95679ad438a99c3264ed1507252b23c4d9ee2e40dbd5e6b98"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
 [[P4est]]
 arch = "x86_64"
 git-tree-sha1 = "2783337a20459f7af3cb2afb43fd8a4ec2aa557f"
@@ -230,7 +230,7 @@ os = "linux"
 
     [[P4est.download]]
     sha256 = "279c64b8f6c386e0edd655b186e4332cbdec6744ed060af8b639defa99d984a5"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.x86_64-linux-musl-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.x86_64-linux-musl-mpi+mpich.tar.gz"
 [[P4est]]
 arch = "x86_64"
 git-tree-sha1 = "462c7376d2d027dd32850c50efc76e6995937973"
@@ -240,7 +240,7 @@ os = "freebsd"
 
     [[P4est.download]]
     sha256 = "0975fd8757a632aef9c41b85601d665cf088ffce3fd4066cfde0f366d51140c9"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
 [[P4est]]
 arch = "x86_64"
 git-tree-sha1 = "89a337ea6f60a4fd58999ab73dea099e41032138"
@@ -250,4 +250,4 @@ os = "windows"
 
     [[P4est.download]]
     sha256 = "d0d8378d45aa66c299769b9a1f8bdf558254005679a3c9945f2e3b4de2547925"
-    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+1/P4est.v2.8.1.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/P4est_jll.jl/releases/download/P4est-v2.8.1+2/P4est.v2.8.1.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
