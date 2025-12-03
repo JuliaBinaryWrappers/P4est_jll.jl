@@ -5,19 +5,19 @@ using Jansson_jll
 using Zlib_jll
 using MPICH_jll
 JLLWrappers.@generate_wrapper_header("P4est")
-JLLWrappers.@declare_library_product(libp4est, "@rpath/libp4est.3.dylib")
-JLLWrappers.@declare_library_product(libsc, "@rpath/libsc.3.dylib")
+JLLWrappers.@declare_library_product(libp4est, "@rpath/libp4est.4.dylib")
+JLLWrappers.@declare_library_product(libsc, "@rpath/libsc.4.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(Jansson_jll, Zlib_jll, MPICH_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libp4est,
-        "lib/libp4est.3.dylib",
+        "lib/libp4est.4.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libsc,
-        "lib/libsc.3.dylib",
+        "lib/libsc.4.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
